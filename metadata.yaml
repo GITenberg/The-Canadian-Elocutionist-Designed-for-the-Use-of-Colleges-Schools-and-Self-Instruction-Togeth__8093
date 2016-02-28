@@ -1,0 +1,25 @@
+_repo: The-Canadian-Elocutionist-Designed-for-the-Use-of-Colleges-Schools-and-Self-Instruction-Togeth__8093
+creator:
+  author:
+    agent_name: Howard, Anna Kelsey
+    aliases:
+    - Kelsey, Anna Halleck
+    - Howard, Anna K. (Anna Halleck Kelsey)
+    gutenberg_agent_id: '2636'
+    url: http://www.gutenberg.org/2009/agents/2636
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elocution'
+- !lcc 'PN'
+title: "The Canadian Elocutionist\r\nDesigned for the Use of Colleges, Schools and\
+  \ Self Instruction, Together with a Copious Selection in Prose and Poetry of Pieces\
+  \ Adapted for Reading, Recitation and Practice"
+url: http://www.gutenberg.org/ebooks/8093
